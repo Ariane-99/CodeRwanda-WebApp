@@ -1,0 +1,9 @@
+
+{
+  "name": "coderwanda-webapp",
+  "version": "1.0.0",
+  "description": "Code Rwanda Web Application",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
